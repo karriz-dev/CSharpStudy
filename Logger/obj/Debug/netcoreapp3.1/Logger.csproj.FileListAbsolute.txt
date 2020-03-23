@@ -1,0 +1,12 @@
+/Users/covision/Desktop/CSharpProjects/Logger/bin/Debug/netcoreapp3.1/Logger.deps.json
+/Users/covision/Desktop/CSharpProjects/Logger/bin/Debug/netcoreapp3.1/Logger.runtimeconfig.json
+/Users/covision/Desktop/CSharpProjects/Logger/bin/Debug/netcoreapp3.1/Logger.runtimeconfig.dev.json
+/Users/covision/Desktop/CSharpProjects/Logger/obj/Debug/netcoreapp3.1/Logger.csprojAssemblyReference.cache
+/Users/covision/Desktop/CSharpProjects/Logger/obj/Debug/netcoreapp3.1/Logger.csproj.CoreCompileInputs.cache
+/Users/covision/Desktop/CSharpProjects/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfoInputs.cache
+/Users/covision/Desktop/CSharpProjects/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfo.cs
+/Users/covision/Desktop/CSharpProjects/Logger/obj/Debug/netcoreapp3.1/Logger.genruntimeconfig.cache
+/Users/covision/Desktop/CSharpProjects/Logger/bin/Debug/netcoreapp3.1/Logger.dll
+/Users/covision/Desktop/CSharpProjects/Logger/bin/Debug/netcoreapp3.1/Logger.pdb
+/Users/covision/Desktop/CSharpProjects/Logger/obj/Debug/netcoreapp3.1/Logger.dll
+/Users/covision/Desktop/CSharpProjects/Logger/obj/Debug/netcoreapp3.1/Logger.pdb

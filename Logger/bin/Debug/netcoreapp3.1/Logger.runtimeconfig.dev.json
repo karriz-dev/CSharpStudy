@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/covision/.dotnet/store/|arch|/|tfm|",
+      "/Users/covision/.nuget/packages"
+    ]
+  }
+}
